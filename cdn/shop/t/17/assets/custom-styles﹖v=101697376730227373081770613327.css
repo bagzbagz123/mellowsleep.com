@@ -1,0 +1,6 @@
+/** Shopify CDN: Minification failed
+
+Line 6:0 Unexpected "<"
+
+**/
+<div class="loox-rating" data-id="{{ product.id }}" data-rating="{{ product.metafields.loox.avg_rating }}" data-content-size="14" data-raters="{{ product.metafields.loox.num_reviews }}"></div>

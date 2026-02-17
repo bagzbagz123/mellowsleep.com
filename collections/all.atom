@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mellowsleep.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mellowsleep.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mellowsleep.com/collections/all.atom"/>
+  <title>mellow</title>
+  <updated>2026-02-09T15:40:46-05:00</updated>
+  <author>
+    <name>mellow</name>
+  </author>
+  <entry>
+    <id>https://mellowsleep.com/products/9146362364157</id>
+    <published>2026-02-09T15:40:46-05:00</published>
+    <updated>2026-02-09T15:40:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/mellow-hotel-pillow-waterproof-stain-resistant-down-alternative"/>
+    <title>Mellow Down Alternative Pillow</title>
+    <s:type></s:type>
+    <s:vendor>mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/herooooo_1.jpg?v=1762823414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mellow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.00 - 34.00
+            <a href="https://mellowsleep.com/products/mellow-hotel-pillow-waterproof-stain-resistant-down-alternative">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">A hotel-style down alternative pillow made for everyday life. Cloud-soft, supportive, and fully waterproof with built-in stain resistance, so it stays clean, fluffy, and fresh night after night.<br><meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9146362364157</id>
+      <title>Standard</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>198715148442</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9146362364157</id>
+      <title>King/Cali King</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku>850078340139</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/9127978270973</id>
+    <published>2026-02-01T03:38:43-05:00</published>
+    <updated>2026-02-01T03:38:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/mellow-adapt-pillow-copy"/>
+    <title>Mellow Pillow (Preorder Test)</title>
+    <s:type></s:type>
+    <s:vendor>mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/Hero_3.png?v=1767128126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mellow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">A pillow designed to support every sleep position with a 5-zone comfort design.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9127978270973</id>
+      <title>Small</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>850078340115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9127978270973</id>
+      <title>Big</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>850078340116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/9128082407677</id>
+    <published>2026-01-30T17:26:30-05:00</published>
+    <updated>2026-01-30T17:26:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/mellow-flex-pillow"/>
+    <title>Mellow Flex Pillow</title>
+    <s:type></s:type>
+    <s:vendor>mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/Flex_hero.jpg?v=1770634280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mellow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.00 - 64.00
+            <a href="https://mellowsleep.com/products/mellow-flex-pillow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">A fully adjustable shredded memory foam pillow designed to give you the exact height and firmness you need for deeper, more comfortable sleep.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9128082407677</id>
+      <title>Standard</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>850078340221</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9128082407677</id>
+      <title>King</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>850078340269</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/9127266418941</id>
+    <published>2026-01-28T16:16:09-05:00</published>
+    <updated>2026-01-28T16:16:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/mellow-flip-pillow"/>
+    <title>MellowFlip PIllow</title>
+    <s:type></s:type>
+    <s:vendor>mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/Hero_6.png?v=1769717226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mellow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">A dual-sided memory foam pillow. One side firm, one side soft. You can flip to choose your perfect balance of support and comfort.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9127266418941</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.99</s:price>
+      <s:sku>850078340122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/9121759789309</id>
+    <published>2026-01-22T13:04:01-05:00</published>
+    <updated>2026-01-22T13:04:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/marshmellow-double-stuffed-comforter"/>
+    <title>MarshMellow Double-Stuffed Comforter</title>
+    <s:type></s:type>
+    <s:vendor>mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/Hero_New.jpg?v=1762914324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mellow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00 - 129.00
+            <a href="https://mellowsleep.com/products/marshmellow-double-stuffed-comforter">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9121759789309</id>
+      <title>Twin/TwinXL / White</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>860014330476</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9121759789309</id>
+      <title>Twin/TwinXL / Gray</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>850078340382</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9121759789309</id>
+      <title>Twin/TwinXL / Sand</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>850078340351</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9121759789309</id>
+      <title>Twin/TwinXL / Baby Pink</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>850078340320</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9121759789309</id>
+      <title>Full/Queen / White</title>
+      <s:price currency="USD">114.00</s:price>
+      <s:sku>860014330483</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9121759789309</id>
+      <title>Full/Queen / Gray</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>850078340399</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9121759789309</id>
+      <title>Full/Queen / Sand</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>850078340368</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9121759789309</id>
+      <title>Full/Queen / Baby Pink</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>850078340337</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9121759789309</id>
+      <title>King/Cali King / White</title>
+      <s:price currency="USD">129.00</s:price>
+      <s:sku>860014330490</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9121759789309</id>
+      <title>King/Cali King / Gray</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>850078340405</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9121759789309</id>
+      <title>King/Cali King / Sand</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>850078340375</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9121759789309</id>
+      <title>King/Cali King / Baby Pink</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>850078340344</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/9094842646781</id>
+    <published>2025-12-30T17:13:03-05:00</published>
+    <updated>2025-12-30T17:13:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/mellow-adapt-pillow"/>
+    <title>Mellow Adapt Pillow</title>
+    <s:type></s:type>
+    <s:vendor>mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/Hero_3.png?v=1767128126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mellow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">A pillow designed to support every sleep position with a 5-zone comfort design.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9094842646781</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>850078340115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/9090241888509</id>
+    <published>2025-12-26T11:45:39-05:00</published>
+    <updated>2025-12-26T11:45:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/mellow-easyfit-sheet"/>
+    <title>Mellow EasyFit Sheet</title>
+    <s:type></s:type>
+    <s:vendor>mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/Group_2087325883.png?v=1766767596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mellow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.00 - 79.00
+            <a href="https://mellowsleep.com/products/mellow-easyfit-sheet">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">A silky-soft, breathable fitted sheet that goes on in under one minute, stays perfectly in place, and stays completely wrinkle-free.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9090241888509</id>
+      <title>Full</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>850078340146</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9090241888509</id>
+      <title>Queen</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku>850078340153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9090241888509</id>
+      <title>King</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>850078340160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9090241888509</id>
+      <title>Twin</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>850078340894</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9090241888509</id>
+      <title>Cali King</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>850078340887</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/8880078979325</id>
+    <published>2025-11-17T02:19:00-05:00</published>
+    <updated>2025-11-17T02:19:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/cloud-alignment-pillow"/>
+    <title>Mellow CloudAlign™ Pillow</title>
+    <s:type>Bedding</s:type>
+    <s:vendor>Mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/Hero.png?v=1770308480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mellow<br>
+        <strong>Type: </strong>Bedding<br>
+        <strong>Price: </strong>
+            49.00 - 59.00
+            <a href="https://mellowsleep.com/products/cloud-alignment-pillow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="" data-end="826" data-start="695"><meta charset="utf-8"><meta charset="utf-8"><strong>6-Zone Comfort, Perfect Alignment.</strong> <meta charset="utf-8">A patented ergonomic pillow with 6 sleep zones and dual-height support. Designed for side, back, and stomach sleepers.<br></p>
+<div aria-hidden="true" hidden="">
+<!-- Content pending approval -->
+<h2>Cloud™ Pillow - The Ultimate Cloud Pillow Revolution</h2>
+<p>Discover why our revolutionary<span> </span><strong>cloud pillow</strong><span> </span>is transforming sleep for millions. This innovative<span> </span><strong>Cloud™ pillow</strong><span> </span>combines advanced technology with superior comfort, offering an exceptional alternative to traditional<span> </span><strong>Tempur-Pedic</strong><span> </span>options. Experience the future of sleep with our patented<span> </span><strong>pillow</strong><span> </span>design that delivers unmatched comfort and support.</p>
+<h2>Revolutionary Cloud Pillow Technology - Advanced Memory Foam Innovation</h2>
+<p>Our<span> </span><strong>cloud pillow</strong><span> </span>features breakthrough<span> </span><strong>memory foam</strong><span> </span>technology that surpasses traditional<span> </span><strong>foam pillow</strong><span> </span>designs. Unlike standard<span> </span><strong>memory foam pillow</strong><span> </span>options, our innovative<span> </span><strong>pillow</strong><span> </span>combines multiple comfort layers to create the perfect sleep experience. This advanced<span> </span><strong>pillow</strong><span> </span>provides superior<span> </span><strong>neck support</strong><span> </span>while maintaining the<span> </span><strong>plush</strong><span> </span>comfort that every<span> </span><strong>sleeper</strong><span> </span>desires for<span> </span><strong>better sleep</strong>.</p>
+<p>The unique construction of our<span> </span><strong>pillow</strong><span> </span>incorporates<span> </span><strong>shredded memory foam</strong><span> </span>technology, creating a<span> </span><strong>shredded memory foam pillow</strong><span> </span>that offers customizable support. This design allows the<span> </span><strong>pillow</strong><span> </span>to<span> </span><strong>adapt</strong><span> </span>to your individual sleep needs, whether you're a<span> </span><strong>side sleeper</strong>,<span> </span><strong>back sleeper</strong>, or<span> </span><strong>stomach sleeper</strong>. The innovative<span> </span><strong>pillow</strong><span> </span>construction ensures optimal<span> </span><strong>sleeping positions</strong><span> </span>support throughout the night.</p>
+<h3>Superior Cooling Pillow Performance</h3>
+<p>Our<span> </span><strong>cooling pillow</strong><span> </span>technology<span> </span><strong>actively regulates temperature</strong><span> </span><strong>throughout the night</strong>, keeping you<span> </span><strong>cool-to-the-touch</strong><span> </span>for<span> </span><strong>deeper sleep</strong>. The<span> </span><strong>breathable</strong><span> </span>design pulls<span> </span><strong>heat away</strong><span> </span>from your head and neck, providing<span> </span><strong>cooling comfort</strong><span> </span>that surpasses the<span> </span><strong>Buffy cloud pillow</strong><span> </span>and even premium<span> </span><strong>Tempur-Cloud pillow</strong><span> </span>options. This<span> </span><strong>pillow</strong><span> </span>ensures you<span> </span><strong>sleep deeply</strong><span> </span>without overheating.</p>
+<h3>Advanced Bedding Technology</h3>
+<p>As part of our comprehensive<span> </span><strong>bedding</strong><span> </span>collection, this<span> </span><strong>pillow</strong><span> </span>works perfectly with any<span> </span><strong>mattress</strong><span> </span>to create the ultimate sleep system. The<span> </span><strong>pillow</strong><span> </span>features a removable<span> </span><strong>pillow cover</strong><span> </span>that's fully<span> </span><strong>washable</strong><span> </span>and<span> </span><strong>machine wash</strong><span> </span>compatible. The<span> </span><strong>hypoallergenic</strong><span> </span>construction ensures<span> </span><strong>allergen</strong><span> </span>protection while maintaining the<span> </span><strong>ultra-soft</strong><span> </span>comfort you need.</p>
+<h2>Perfect Pillow for Every Sleeper - Customized Support Systems</h2>
+<h3>Side Sleepers Paradise</h3>
+<p>Designed specifically for<span> </span><strong>side sleepers</strong>, our<span> </span><strong>pillow</strong><span> </span>provides targeted support that prevents<span> </span><strong>neck pain</strong><span> </span>and<span> </span><strong>back pain</strong>. The<span> </span><strong>pillow</strong><span> </span><strong>gently cradles</strong><span> </span>your head while maintaining proper spinal alignment. The<span> </span><strong>side sleeping</strong><span> </span>design ensures your<span> </span><strong>head and neck</strong><span> </span>remain in perfect position throughout the night, delivering the<span> </span><strong>perfect pillow</strong><span> </span>experience for side sleep preferences.</p>
+<h3>Back Sleeper Comfort</h3>
+<p>For the<span> </span><strong>back sleeper</strong>, our<span> </span><strong>pillow</strong><span> </span>offers<span> </span><strong>medium-firm</strong><span> </span>support that<span> </span><strong>cradles head</strong><span> </span>without excessive elevation. The<span> </span><strong>pillow</strong><span> </span>maintains optimal<span> </span><strong>cervical neck</strong><span> </span>alignment while providing the<span> </span><strong>plush</strong><span> </span>comfort needed for<span> </span><strong>ultimate sleep</strong>. This<span> </span><strong>pillow</strong><span> </span>ensures<span> </span><strong>stomach and back</strong><span> </span>sleepers experience consistent support.</p>
+<h3>Stomach Sleeper Solution</h3>
+<p>Even the<span> </span><strong>stomach sleeper</strong><span> </span>will find comfort with our adjustable<span> </span><strong>loft</strong><span> </span>design. The<span> </span><strong>pillow</strong><span> </span>can be customized to provide lower profile support, ensuring proper alignment without strain. This versatility makes it the<span> </span><strong>best pillow</strong><span> </span>choice for all<span> </span><strong>sleep styles</strong>.</p>
+<h2>Premium Materials &amp; Certifications - Quality You Can Trust</h2>
+<h4>Advanced Fiber Technology</h4>
+<ul>
+<li>
+<strong>Shredded memory foam</strong><span> </span>core with adjustable<span> </span><strong>loft</strong><span> </span>and<span> </span><strong>firmness levels</strong>
+</li>
+<li>
+<strong>Down-alternative</strong><span> </span><strong>fiber</strong><span> </span>blend for<span> </span><strong>plushness</strong><span> </span>without<span> </span><strong>allergen</strong><span> </span>concerns</li>
+<li>
+<strong>Microfiber</strong><span> </span>and<span> </span><strong>polyester</strong><span> </span>components for durability and<span> </span><strong>breathable</strong><span> </span>comfort</li>
+<li>
+<strong>Eucalyptus</strong>-derived<span> </span><strong>fiber</strong><span> </span>for natural cooling and<span> </span><strong>environmental impact</strong><span> </span>reduction</li>
+<li>
+<strong>CertiPUR-US</strong><span> </span>certified<span> </span><strong>memory foam</strong><span> </span>ensuring safety and quality</li>
+</ul>
+<h4>Premium Cover Construction</h4>
+<ul>
+<li>
+<strong>Cotton cover</strong><span> </span>with<span> </span><strong>OEKO-TEX® Standard 100</strong><span> </span>certification</li>
+<li>
+<strong>Ultra-smooth</strong><span> </span><strong>pillowcase</strong>-ready surface</li>
+<li>
+<strong>Machine wash</strong><span> </span>compatible - no<span> </span><strong>bleach</strong><span> </span>required</li>
+<li>
+<strong>Hypoallergenic</strong><span> </span>construction prevents<span> </span><strong>allergen</strong><span> </span>buildup</li>
+<li>
+<strong>Breathable</strong><span> </span>design maintains<span> </span><strong>cool-to-the-touch</strong><span> </span>comfort</li>
+</ul>
+<h2>Why Choose Our Cloud Pillow Over Tempur-Pedic and Competitors?</h2>
+<p>Our<span> </span><strong>pillow</strong><span> </span>consistently outperforms both<span> </span><strong>Tempur-Pedic</strong><span> </span>and<span> </span><strong>Tempur-Cloud pillow</strong><span> </span>options in comfort, customization, and value. The innovative<span> </span><strong>pillow features</strong><span> </span>provide superior support while maintaining the<span> </span><strong>sleeping on a cloud</strong><span> </span>experience that makes it the<span> </span><strong>perfect pillow</strong><span> </span>for<span> </span><strong>every sleeper</strong>.</p>
+<h2>Patent-Pending Innovation - Revolutionary Pillow Design</h2>
+<p>Our<span> </span><strong>patent</strong>-pending technology represents a breakthrough in<span> </span><strong>pillow</strong><span> </span>design. The unique<span> </span><strong>shred</strong><span> </span>pattern of our<span> </span><strong>memory foam</strong><span> </span>creates optimal airflow while maintaining support. This innovation allows the<span> </span><strong>pillow</strong><span> </span>to<span> </span><strong>cradle</strong><span> </span>your head perfectly while providing the<span> </span><strong>neck support</strong><span> </span>needed to prevent<span> </span><strong>neck pain</strong><span> </span>and ensure<span> </span><strong>better sleep</strong>.</p>
+<p>The<span> </span><strong>pillow</strong><span> </span>construction incorporates multiple<span> </span><strong>fiber</strong><span> </span>types to create the ideal balance of support and comfort. Unlike traditional<span> </span><strong>foam pillow</strong><span> </span>designs, our<span> </span><strong>pillow</strong><span> </span>maintains its shape while offering customizable<span> </span><strong>firmness levels</strong>. This makes it<span> </span><strong>firmer</strong><span> </span>than typical<span> </span><strong>down-alternative</strong><span> </span>options while remaining<span> </span><strong>super soft</strong><span> </span>to the touch.</p>
+<p>The innovative design ensures the<span> </span><strong>pillow</strong><span> </span>works with any<span> </span><strong>pillowcase</strong><span> </span>and complements your existing<span> </span><strong>bedding</strong><span> </span>perfectly. Whether you prefer a<span> </span><strong>plush</strong><span> </span>feel or need<span> </span><strong>firmer</strong><span> </span>support, this<span> </span><strong>pillow</strong><span> </span>adapts to your preferences while maintaining its<span> </span><strong>ultra-soft</strong><span> </span>surface.</p>
+<h2>Complete Sleep Solution - Beyond Just a Pillow</h2>
+<p>Our<span> </span><strong>cloud pillow</strong><span> </span>is designed to work seamlessly with your<span> </span><strong>mattress</strong><span> </span>and<span> </span><strong>bedding</strong><span> </span>to create the ultimate sleep environment. The<span> </span><strong>pillow</strong><span> </span>features advanced temperature regulation that keeps you comfortable<span> </span><strong>throughout the night</strong>, ensuring<span> </span><strong>deeper sleep</strong><span> </span>and<span> </span><strong>better sleep</strong><span> </span>quality.</p>
+<p>The<span> </span><strong>pillow</strong><span> </span>construction includes<span> </span><strong>breathable</strong><span> </span>materials that promote airflow while the<span> </span><strong>hypoallergenic</strong><span> </span>properties protect against<span> </span><strong>allergen</strong><span> </span>buildup. This makes it the<span> </span><strong>best pillow</strong><span> </span>choice for sensitive sleepers who need both comfort and protection.</p>
+<p>Whether you're upgrading from a<span> </span><strong>traditional pillow</strong>, comparing to the<span> </span><strong>Buffy cloud pillow</strong>, or seeking an alternative to<span> </span><strong>Tempur-Pedic®</strong><span> </span>products, our<span> </span><strong>pillow</strong><span> </span>delivers superior performance across all metrics. The<span> </span><strong>pillow</strong><span> </span>provides the<span> </span><strong>ultimate sleep</strong><span> </span>experience with unmatched versatility.</p>
+<h2>Customer Testimonials - Real Experiences with Our Cloud Pillow</h2>
+<blockquote>
+<p>"After trying multiple<span> </span><strong>memory foam pillow</strong><span> </span>options including<span> </span><strong>Tempur-Pedic</strong>, this<span> </span><strong>cloud pillow</strong><span> </span>is by far the<span> </span><strong>best pillow</strong><span> </span>I've owned. The<span> </span><strong>neck support</strong><span> </span>is incredible, and I wake up without<span> </span><strong>neck pain</strong><span> </span>for the first time in years. The<span> </span><strong>cooling pillow</strong><span> </span>technology keeps me comfortable all night."</p>
+<p><strong>- Sarah M., Side Sleeper</strong></p>
+</blockquote>
+<blockquote>
+<p>"As a<span> </span><strong>stomach sleeper</strong>, I struggled to find the right<span> </span><strong>pillow</strong>. This<span> </span><strong>shredded memory foam pillow</strong><span> </span>lets me adjust the<span> </span><strong>loft</strong><span> </span>perfectly. It's<span> </span><strong>super soft</strong><span> </span>yet supportive, and the<span> </span><strong>washable</strong><span> </span>cover is a huge bonus. Definitely the<span> </span><strong>perfect pillow</strong><span> </span>for my needs."</p>
+<p><strong>- Michael R., Stomach Sleeper</strong></p>
+</blockquote>
+<blockquote>
+<p>"I compared this to the<span> </span><strong>Tempur-Cloud® pillow</strong><span> </span>and several other<span> </span><strong>memory foam</strong><span> </span>options. The customizable<span> </span><strong>firmness levels</strong><span> </span>and<span> </span><strong>cooling comfort</strong><span> </span>make this the clear winner. It truly feels like<span> </span><strong>sleeping on a cloud</strong><span> </span>while providing the support I need as a<span> </span><strong>back sleeper</strong>."</p>
+<p><strong>- Jennifer L., Back Sleeper</strong></p>
+</blockquote>
+<h2>Advanced Sleep Technology - Science Meets Comfort</h2>
+<p>Our<span> </span><strong>pillow</strong><span> </span>incorporates cutting-edge sleep science to deliver the<span> </span><strong>ultimate sleep</strong><span> </span>experience. The<span> </span><strong>memory foam</strong><span> </span>technology responds to your body heat and pressure, creating a custom<span> </span><strong>cradle</strong><span> </span>for your<span> </span><strong>head and neck</strong>. This<span> </span><strong>pillow</strong><span> </span>ensures proper<span> </span><strong>cervical neck</strong><span> </span>alignment regardless of your preferred<span> </span><strong>sleeping positions</strong>.</p>
+<p>The<span> </span><strong>pillow</strong><span> </span>features multiple<span> </span><strong>fiber</strong><span> </span>layers that work together to provide optimal support and comfort. The<span> </span><strong>breathable</strong><span> </span>construction allows air to flow freely, preventing heat buildup while maintaining the<span> </span><strong>plush</strong><span> </span>feel that makes this the<span> </span><strong>best pillow</strong><span> </span>for comfort seekers.</p>
+<p>Unlike traditional<span> </span><strong>polyester</strong><span> </span>or basic<span> </span><strong>microfiber</strong><span> </span>options, our<span> </span><strong>pillow</strong><span> </span>uses premium materials that maintain their<span> </span><strong>plushness</strong><span> </span>over time. The<span> </span><strong>CertiPUR-US</strong><span> </span>certification ensures the<span> </span><strong>memory foam</strong><span> </span>meets the highest safety standards while delivering exceptional performance.</p>
+<h2>Environmental Responsibility - Sustainable Sleep Solutions</h2>
+<p>Our commitment to reducing<span> </span><strong>environmental impact</strong><span> </span>drives every aspect of our<span> </span><strong>pillow</strong><span> </span>design. The<span> </span><strong>eucalyptus</strong>-derived<span> </span><strong>fiber</strong><span> </span>components provide natural cooling properties while supporting sustainable practices. This<span> </span><strong>pillow</strong><span> </span>offers the luxury of premium<span> </span><strong>bedding</strong><span> </span>without compromising environmental responsibility.</p>
+<p>The<span> </span><strong>OEKO-TEX® Standard 100</strong><span> </span>certification ensures our<span> </span><strong>pillow</strong><span> </span>meets strict environmental and safety standards. Every component, from the<span> </span><strong>memory foam</strong><span> </span>core to the<span> </span><strong>cotton cover</strong>, is carefully selected to minimize<span> </span><strong>environmental impact</strong><span> </span>while maximizing comfort and durability.</p>
+<p>The<span> </span><strong>washable</strong><span> </span>design extends the<span> </span><strong>pillow</strong><span> </span>lifespan, reducing waste while maintaining hygiene. This sustainable approach makes our<span> </span><strong>pillow</strong><span> </span>the responsible choice for environmentally conscious consumers who refuse to compromise on comfort.</p>
+<h2>Complete Care Instructions - Maintaining Your Perfect Pillow</h2>
+<p>Caring for your<span> </span><strong>cloud pillow</strong><span> </span>is simple and convenient. The removable<span> </span><strong>pillow cover</strong><span> </span>is fully<span> </span><strong>machine wash</strong><span> </span>compatible - simply remove and wash in cold water without<span> </span><strong>bleach</strong>. The<span> </span><strong>breathable</strong><span> </span>design ensures quick drying while maintaining the<span> </span><strong>ultra-smooth</strong><span> </span>surface that works with any<span> </span><strong>pillowcase</strong>.</p>
+<p>The<span> </span><strong>shredded memory foam</strong><span> </span>core can be adjusted by adding or removing<span> </span><strong>shred</strong><span> </span>material to achieve your preferred<span> </span><strong>loft</strong><span> </span>and<span> </span><strong>firmness levels</strong>. This customization ensures the<span> </span><strong>pillow</strong><span> </span>continues to provide optimal<span> </span><strong>neck support</strong><span> </span>and comfort as your sleep needs evolve.</p>
+<p>Regular care maintains the<span> </span><strong>hypoallergenic</strong><span> </span>properties and prevents<span> </span><strong>allergen</strong><span> </span>buildup. The<span> </span><strong>pillow</strong><span> </span>construction is designed to withstand frequent washing while maintaining its<span> </span><strong>super soft</strong><span> </span>feel and supportive properties.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8880078979325</id>
+      <title>Regular</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>860013804466</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8880078979325</id>
+      <title>High</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>860014330438</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/9052339601661</id>
+    <published>2025-11-14T10:17:05-05:00</published>
+    <updated>2025-11-14T10:17:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/shipping-protection-1"/>
+    <title>Shipping Protection</title>
+    <s:type>Upcart - Shipping Protection</s:type>
+    <s:vendor>mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/BadgeProtect_1_ee014e83-2661-483a-a9f4-8f1b3ff0bd0b.png?v=1762985896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mellow<br>
+        <strong>Type: </strong>Upcart - Shipping Protection<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Protect your order from damage, loss, or theft during shipping.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9052339601661</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/9049584271613</id>
+    <published>2025-11-12T17:18:27-05:00</published>
+    <updated>2025-11-12T17:18:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/lifetime-warranty"/>
+    <title>Lifetime Warranty</title>
+    <s:type></s:type>
+    <s:vendor>mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/BadgeProtect_1_ee014e83-2661-483a-a9f4-8f1b3ff0bd0b.png?v=1762985896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mellow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">A lifetime of coverage for any manufacturing defect, simple, stress-free replacement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9049584271613</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/9049579946237</id>
+    <published>2025-11-12T17:05:38-05:00</published>
+    <updated>2025-11-12T17:05:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/shipping-protection"/>
+    <title>Shipping Protection</title>
+    <s:type></s:type>
+    <s:vendor>mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/BadgeProtect_1_0c9c2f05-f71b-4bb4-a693-8cd392219012.png?v=1762985284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mellow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Covers loss, damage, and delivery problems.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9049579946237</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/9048095555837</id>
+    <published>2025-11-11T21:00:40-05:00</published>
+    <updated>2025-11-11T21:00:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/standard-cooling-pillowcases"/>
+    <title>Mellow Cooling Pillowcases (2-Pack)</title>
+    <s:type></s:type>
+    <s:vendor>mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/Photo-139.jpg?v=1762735873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mellow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9048095555837</id>
+      <title>White / Standard</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>860014330452</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9048095555837</id>
+      <title>White / King/Cali King</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>850078340412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9048095555837</id>
+      <title>Lavender / Standard</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>198715892208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9048095555837</id>
+      <title>Lavender / King/Cali King</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>850078340443</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9048095555837</id>
+      <title>Baby Blue / Standard</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>860014330469</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9048095555837</id>
+      <title>Baby Blue / King/Cali King</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>850078340429</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9048095555837</id>
+      <title>Gray / Standard</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>850078340184</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9048095555837</id>
+      <title>Gray / King/Cali King</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>850078340436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/9048333582589</id>
+    <published>2025-11-11T20:32:07-05:00</published>
+    <updated>2025-11-11T20:32:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/mellow-cloudalign-cooling-pillowcase"/>
+    <title>Mellow Cloud Cooling Pillowcase</title>
+    <s:type></s:type>
+    <s:vendor>mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/HeroBW_2.jpg?v=1762913633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mellow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made Specifically for the <a href="https://mellowsleep.com/products/cloud-alignment-pillow" rel="noopener" target="_blank">CloudAlign Pillow</a> <strong>Powered by FrostWeave™ Tech.</strong> A silky smooth, wrinkle free pillowcase engineered to stay cool, fresh, and soft all night.  </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9048333582589</id>
+      <title>Baby Blue</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>860014330445</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9048333582589</id>
+      <title>White</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>860014330421</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/9037250494717</id>
+    <published>2025-11-03T17:56:46-05:00</published>
+    <updated>2025-11-03T17:56:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/marshmellow-comforter"/>
+    <title>MarshMellow Comforter</title>
+    <s:type></s:type>
+    <s:vendor>mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/Hero_New.jpg?v=1762914324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mellow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            100.00 - 134.00
+            <a href="https://mellowsleep.com/products/marshmellow-comforter">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9037250494717</id>
+      <title>Twin/TwinXL / White</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>860014330476</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9037250494717</id>
+      <title>Twin/TwinXL / Baby Pink</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>850078340320</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9037250494717</id>
+      <title>Twin/TwinXL / Gray</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>850078340382</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9037250494717</id>
+      <title>Twin/TwinXL / Sand</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>850078340351</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9037250494717</id>
+      <title>Full/Queen / White</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>860014330483</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9037250494717</id>
+      <title>Full/Queen / Baby Pink</title>
+      <s:price currency="USD">124.00</s:price>
+      <s:sku>850078340337</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9037250494717</id>
+      <title>Full/Queen / Gray</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>850078340399</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9037250494717</id>
+      <title>Full/Queen / Sand</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>850078340368</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9037250494717</id>
+      <title>King/Cali King / White</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>860014330490</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9037250494717</id>
+      <title>King/Cali King / Baby Pink</title>
+      <s:price currency="USD">134.00</s:price>
+      <s:sku>850078340344</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9037250494717</id>
+      <title>King/Cali King / Gray</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku>850078340405</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9037250494717</id>
+      <title>King/Cali King / Sand</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku>850078340375</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/9019920711933</id>
+    <published>2025-10-22T19:24:07-04:00</published>
+    <updated>2025-10-22T19:24:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/mellow-hotel-pillow"/>
+    <title>Mellow Hotel Pillow Waterproof &amp; Stain-Resistant</title>
+    <s:type></s:type>
+    <s:vendor>mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/herooooo_1.jpg?v=1762823414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mellow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.00 - 45.00
+            <a href="https://mellowsleep.com/products/mellow-hotel-pillow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><strong data-start="88" data-end="147">The classic hotel pillow made waterproof and stain-resistant.</strong></p>
+<p>Cloud-soft comfort with built-in protection. 100% waterproof, oil-proof, and resistant to makeup and yellowing, it stays fresh, fluffy, and spotless night after night. Hypoallergenic, supportive, and fully machine-washable.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9019920711933</id>
+      <title>Standard</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>198715148442</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/9019920711933</id>
+      <title>King/Cali King</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>850078340139</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/8981354610941</id>
+    <published>2025-09-27T16:29:56-04:00</published>
+    <updated>2025-09-27T16:29:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/mellow-cloudalign-pillow-refund-offer"/>
+    <title>CloudAlign™ Pillow</title>
+    <s:type>Bedding</s:type>
+    <s:vendor>Mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/Frame_2147224219_4.png?v=1770308480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mellow<br>
+        <strong>Type: </strong>Bedding<br>
+        <strong>Price: </strong>
+            49.00 - 59.00
+            <a href="https://mellowsleep.com/products/mellow-cloudalign-pillow-refund-offer">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="" data-end="826" data-start="695"><meta charset="utf-8"><meta charset="utf-8"><strong>6-Zone Comfort, Perfect Alignment.</strong> <meta charset="utf-8">A patented ergonomic pillow with 6 sleep zones and dual-height support. Designed for side, back, and stomach sleepers.<br></p>
+<div aria-hidden="true" hidden="">
+<!-- Content pending approval -->
+<h2>Cloud™ Pillow - The Ultimate Cloud Pillow Revolution</h2>
+<p>Discover why our revolutionary<span> </span><strong>cloud pillow</strong><span> </span>is transforming sleep for millions. This innovative<span> </span><strong>Cloud™ pillow</strong><span> </span>combines advanced technology with superior comfort, offering an exceptional alternative to traditional<span> </span><strong>Tempur-Pedic</strong><span> </span>options. Experience the future of sleep with our patented<span> </span><strong>pillow</strong><span> </span>design that delivers unmatched comfort and support.</p>
+<h2>Revolutionary Cloud Pillow Technology - Advanced Memory Foam Innovation</h2>
+<p>Our<span> </span><strong>cloud pillow</strong><span> </span>features breakthrough<span> </span><strong>memory foam</strong><span> </span>technology that surpasses traditional<span> </span><strong>foam pillow</strong><span> </span>designs. Unlike standard<span> </span><strong>memory foam pillow</strong><span> </span>options, our innovative<span> </span><strong>pillow</strong><span> </span>combines multiple comfort layers to create the perfect sleep experience. This advanced<span> </span><strong>pillow</strong><span> </span>provides superior<span> </span><strong>neck support</strong><span> </span>while maintaining the<span> </span><strong>plush</strong><span> </span>comfort that every<span> </span><strong>sleeper</strong><span> </span>desires for<span> </span><strong>better sleep</strong>.</p>
+<p>The unique construction of our<span> </span><strong>pillow</strong><span> </span>incorporates<span> </span><strong>shredded memory foam</strong><span> </span>technology, creating a<span> </span><strong>shredded memory foam pillow</strong><span> </span>that offers customizable support. This design allows the<span> </span><strong>pillow</strong><span> </span>to<span> </span><strong>adapt</strong><span> </span>to your individual sleep needs, whether you're a<span> </span><strong>side sleeper</strong>,<span> </span><strong>back sleeper</strong>, or<span> </span><strong>stomach sleeper</strong>. The innovative<span> </span><strong>pillow</strong><span> </span>construction ensures optimal<span> </span><strong>sleeping positions</strong><span> </span>support throughout the night.</p>
+<h3>Superior Cooling Pillow Performance</h3>
+<p>Our<span> </span><strong>cooling pillow</strong><span> </span>technology<span> </span><strong>actively regulates temperature</strong><span> </span><strong>throughout the night</strong>, keeping you<span> </span><strong>cool-to-the-touch</strong><span> </span>for<span> </span><strong>deeper sleep</strong>. The<span> </span><strong>breathable</strong><span> </span>design pulls<span> </span><strong>heat away</strong><span> </span>from your head and neck, providing<span> </span><strong>cooling comfort</strong><span> </span>that surpasses the<span> </span><strong>Buffy cloud pillow</strong><span> </span>and even premium<span> </span><strong>Tempur-Cloud pillow</strong><span> </span>options. This<span> </span><strong>pillow</strong><span> </span>ensures you<span> </span><strong>sleep deeply</strong><span> </span>without overheating.</p>
+<h3>Advanced Bedding Technology</h3>
+<p>As part of our comprehensive<span> </span><strong>bedding</strong><span> </span>collection, this<span> </span><strong>pillow</strong><span> </span>works perfectly with any<span> </span><strong>mattress</strong><span> </span>to create the ultimate sleep system. The<span> </span><strong>pillow</strong><span> </span>features a removable<span> </span><strong>pillow cover</strong><span> </span>that's fully<span> </span><strong>washable</strong><span> </span>and<span> </span><strong>machine wash</strong><span> </span>compatible. The<span> </span><strong>hypoallergenic</strong><span> </span>construction ensures<span> </span><strong>allergen</strong><span> </span>protection while maintaining the<span> </span><strong>ultra-soft</strong><span> </span>comfort you need.</p>
+<h2>Perfect Pillow for Every Sleeper - Customized Support Systems</h2>
+<h3>Side Sleepers Paradise</h3>
+<p>Designed specifically for<span> </span><strong>side sleepers</strong>, our<span> </span><strong>pillow</strong><span> </span>provides targeted support that prevents<span> </span><strong>neck pain</strong><span> </span>and<span> </span><strong>back pain</strong>. The<span> </span><strong>pillow</strong><span> </span><strong>gently cradles</strong><span> </span>your head while maintaining proper spinal alignment. The<span> </span><strong>side sleeping</strong><span> </span>design ensures your<span> </span><strong>head and neck</strong><span> </span>remain in perfect position throughout the night, delivering the<span> </span><strong>perfect pillow</strong><span> </span>experience for side sleep preferences.</p>
+<h3>Back Sleeper Comfort</h3>
+<p>For the<span> </span><strong>back sleeper</strong>, our<span> </span><strong>pillow</strong><span> </span>offers<span> </span><strong>medium-firm</strong><span> </span>support that<span> </span><strong>cradles head</strong><span> </span>without excessive elevation. The<span> </span><strong>pillow</strong><span> </span>maintains optimal<span> </span><strong>cervical neck</strong><span> </span>alignment while providing the<span> </span><strong>plush</strong><span> </span>comfort needed for<span> </span><strong>ultimate sleep</strong>. This<span> </span><strong>pillow</strong><span> </span>ensures<span> </span><strong>stomach and back</strong><span> </span>sleepers experience consistent support.</p>
+<h3>Stomach Sleeper Solution</h3>
+<p>Even the<span> </span><strong>stomach sleeper</strong><span> </span>will find comfort with our adjustable<span> </span><strong>loft</strong><span> </span>design. The<span> </span><strong>pillow</strong><span> </span>can be customized to provide lower profile support, ensuring proper alignment without strain. This versatility makes it the<span> </span><strong>best pillow</strong><span> </span>choice for all<span> </span><strong>sleep styles</strong>.</p>
+<h2>Premium Materials &amp; Certifications - Quality You Can Trust</h2>
+<h4>Advanced Fiber Technology</h4>
+<ul>
+<li>
+<strong>Shredded memory foam</strong><span> </span>core with adjustable<span> </span><strong>loft</strong><span> </span>and<span> </span><strong>firmness levels</strong>
+</li>
+<li>
+<strong>Down-alternative</strong><span> </span><strong>fiber</strong><span> </span>blend for<span> </span><strong>plushness</strong><span> </span>without<span> </span><strong>allergen</strong><span> </span>concerns</li>
+<li>
+<strong>Microfiber</strong><span> </span>and<span> </span><strong>polyester</strong><span> </span>components for durability and<span> </span><strong>breathable</strong><span> </span>comfort</li>
+<li>
+<strong>Eucalyptus</strong>-derived<span> </span><strong>fiber</strong><span> </span>for natural cooling and<span> </span><strong>environmental impact</strong><span> </span>reduction</li>
+<li>
+<strong>CertiPUR-US</strong><span> </span>certified<span> </span><strong>memory foam</strong><span> </span>ensuring safety and quality</li>
+</ul>
+<h4>Premium Cover Construction</h4>
+<ul>
+<li>
+<strong>Cotton cover</strong><span> </span>with<span> </span><strong>OEKO-TEX® Standard 100</strong><span> </span>certification</li>
+<li>
+<strong>Ultra-smooth</strong><span> </span><strong>pillowcase</strong>-ready surface</li>
+<li>
+<strong>Machine wash</strong><span> </span>compatible - no<span> </span><strong>bleach</strong><span> </span>required</li>
+<li>
+<strong>Hypoallergenic</strong><span> </span>construction prevents<span> </span><strong>allergen</strong><span> </span>buildup</li>
+<li>
+<strong>Breathable</strong><span> </span>design maintains<span> </span><strong>cool-to-the-touch</strong><span> </span>comfort</li>
+</ul>
+<h2>Why Choose Our Cloud Pillow Over Tempur-Pedic and Competitors?</h2>
+<p>Our<span> </span><strong>pillow</strong><span> </span>consistently outperforms both<span> </span><strong>Tempur-Pedic</strong><span> </span>and<span> </span><strong>Tempur-Cloud pillow</strong><span> </span>options in comfort, customization, and value. The innovative<span> </span><strong>pillow features</strong><span> </span>provide superior support while maintaining the<span> </span><strong>sleeping on a cloud</strong><span> </span>experience that makes it the<span> </span><strong>perfect pillow</strong><span> </span>for<span> </span><strong>every sleeper</strong>.</p>
+<h2>Patent-Pending Innovation - Revolutionary Pillow Design</h2>
+<p>Our<span> </span><strong>patent</strong>-pending technology represents a breakthrough in<span> </span><strong>pillow</strong><span> </span>design. The unique<span> </span><strong>shred</strong><span> </span>pattern of our<span> </span><strong>memory foam</strong><span> </span>creates optimal airflow while maintaining support. This innovation allows the<span> </span><strong>pillow</strong><span> </span>to<span> </span><strong>cradle</strong><span> </span>your head perfectly while providing the<span> </span><strong>neck support</strong><span> </span>needed to prevent<span> </span><strong>neck pain</strong><span> </span>and ensure<span> </span><strong>better sleep</strong>.</p>
+<p>The<span> </span><strong>pillow</strong><span> </span>construction incorporates multiple<span> </span><strong>fiber</strong><span> </span>types to create the ideal balance of support and comfort. Unlike traditional<span> </span><strong>foam pillow</strong><span> </span>designs, our<span> </span><strong>pillow</strong><span> </span>maintains its shape while offering customizable<span> </span><strong>firmness levels</strong>. This makes it<span> </span><strong>firmer</strong><span> </span>than typical<span> </span><strong>down-alternative</strong><span> </span>options while remaining<span> </span><strong>super soft</strong><span> </span>to the touch.</p>
+<p>The innovative design ensures the<span> </span><strong>pillow</strong><span> </span>works with any<span> </span><strong>pillowcase</strong><span> </span>and complements your existing<span> </span><strong>bedding</strong><span> </span>perfectly. Whether you prefer a<span> </span><strong>plush</strong><span> </span>feel or need<span> </span><strong>firmer</strong><span> </span>support, this<span> </span><strong>pillow</strong><span> </span>adapts to your preferences while maintaining its<span> </span><strong>ultra-soft</strong><span> </span>surface.</p>
+<h2>Complete Sleep Solution - Beyond Just a Pillow</h2>
+<p>Our<span> </span><strong>cloud pillow</strong><span> </span>is designed to work seamlessly with your<span> </span><strong>mattress</strong><span> </span>and<span> </span><strong>bedding</strong><span> </span>to create the ultimate sleep environment. The<span> </span><strong>pillow</strong><span> </span>features advanced temperature regulation that keeps you comfortable<span> </span><strong>throughout the night</strong>, ensuring<span> </span><strong>deeper sleep</strong><span> </span>and<span> </span><strong>better sleep</strong><span> </span>quality.</p>
+<p>The<span> </span><strong>pillow</strong><span> </span>construction includes<span> </span><strong>breathable</strong><span> </span>materials that promote airflow while the<span> </span><strong>hypoallergenic</strong><span> </span>properties protect against<span> </span><strong>allergen</strong><span> </span>buildup. This makes it the<span> </span><strong>best pillow</strong><span> </span>choice for sensitive sleepers who need both comfort and protection.</p>
+<p>Whether you're upgrading from a<span> </span><strong>traditional pillow</strong>, comparing to the<span> </span><strong>Buffy cloud pillow</strong>, or seeking an alternative to<span> </span><strong>Tempur-Pedic®</strong><span> </span>products, our<span> </span><strong>pillow</strong><span> </span>delivers superior performance across all metrics. The<span> </span><strong>pillow</strong><span> </span>provides the<span> </span><strong>ultimate sleep</strong><span> </span>experience with unmatched versatility.</p>
+<h2>Customer Testimonials - Real Experiences with Our Cloud Pillow</h2>
+<blockquote>
+<p>"After trying multiple<span> </span><strong>memory foam pillow</strong><span> </span>options including<span> </span><strong>Tempur-Pedic</strong>, this<span> </span><strong>cloud pillow</strong><span> </span>is by far the<span> </span><strong>best pillow</strong><span> </span>I've owned. The<span> </span><strong>neck support</strong><span> </span>is incredible, and I wake up without<span> </span><strong>neck pain</strong><span> </span>for the first time in years. The<span> </span><strong>cooling pillow</strong><span> </span>technology keeps me comfortable all night."</p>
+<p><strong>- Sarah M., Side Sleeper</strong></p>
+</blockquote>
+<blockquote>
+<p>"As a<span> </span><strong>stomach sleeper</strong>, I struggled to find the right<span> </span><strong>pillow</strong>. This<span> </span><strong>shredded memory foam pillow</strong><span> </span>lets me adjust the<span> </span><strong>loft</strong><span> </span>perfectly. It's<span> </span><strong>super soft</strong><span> </span>yet supportive, and the<span> </span><strong>washable</strong><span> </span>cover is a huge bonus. Definitely the<span> </span><strong>perfect pillow</strong><span> </span>for my needs."</p>
+<p><strong>- Michael R., Stomach Sleeper</strong></p>
+</blockquote>
+<blockquote>
+<p>"I compared this to the<span> </span><strong>Tempur-Cloud® pillow</strong><span> </span>and several other<span> </span><strong>memory foam</strong><span> </span>options. The customizable<span> </span><strong>firmness levels</strong><span> </span>and<span> </span><strong>cooling comfort</strong><span> </span>make this the clear winner. It truly feels like<span> </span><strong>sleeping on a cloud</strong><span> </span>while providing the support I need as a<span> </span><strong>back sleeper</strong>."</p>
+<p><strong>- Jennifer L., Back Sleeper</strong></p>
+</blockquote>
+<h2>Advanced Sleep Technology - Science Meets Comfort</h2>
+<p>Our<span> </span><strong>pillow</strong><span> </span>incorporates cutting-edge sleep science to deliver the<span> </span><strong>ultimate sleep</strong><span> </span>experience. The<span> </span><strong>memory foam</strong><span> </span>technology responds to your body heat and pressure, creating a custom<span> </span><strong>cradle</strong><span> </span>for your<span> </span><strong>head and neck</strong>. This<span> </span><strong>pillow</strong><span> </span>ensures proper<span> </span><strong>cervical neck</strong><span> </span>alignment regardless of your preferred<span> </span><strong>sleeping positions</strong>.</p>
+<p>The<span> </span><strong>pillow</strong><span> </span>features multiple<span> </span><strong>fiber</strong><span> </span>layers that work together to provide optimal support and comfort. The<span> </span><strong>breathable</strong><span> </span>construction allows air to flow freely, preventing heat buildup while maintaining the<span> </span><strong>plush</strong><span> </span>feel that makes this the<span> </span><strong>best pillow</strong><span> </span>for comfort seekers.</p>
+<p>Unlike traditional<span> </span><strong>polyester</strong><span> </span>or basic<span> </span><strong>microfiber</strong><span> </span>options, our<span> </span><strong>pillow</strong><span> </span>uses premium materials that maintain their<span> </span><strong>plushness</strong><span> </span>over time. The<span> </span><strong>CertiPUR-US</strong><span> </span>certification ensures the<span> </span><strong>memory foam</strong><span> </span>meets the highest safety standards while delivering exceptional performance.</p>
+<h2>Environmental Responsibility - Sustainable Sleep Solutions</h2>
+<p>Our commitment to reducing<span> </span><strong>environmental impact</strong><span> </span>drives every aspect of our<span> </span><strong>pillow</strong><span> </span>design. The<span> </span><strong>eucalyptus</strong>-derived<span> </span><strong>fiber</strong><span> </span>components provide natural cooling properties while supporting sustainable practices. This<span> </span><strong>pillow</strong><span> </span>offers the luxury of premium<span> </span><strong>bedding</strong><span> </span>without compromising environmental responsibility.</p>
+<p>The<span> </span><strong>OEKO-TEX® Standard 100</strong><span> </span>certification ensures our<span> </span><strong>pillow</strong><span> </span>meets strict environmental and safety standards. Every component, from the<span> </span><strong>memory foam</strong><span> </span>core to the<span> </span><strong>cotton cover</strong>, is carefully selected to minimize<span> </span><strong>environmental impact</strong><span> </span>while maximizing comfort and durability.</p>
+<p>The<span> </span><strong>washable</strong><span> </span>design extends the<span> </span><strong>pillow</strong><span> </span>lifespan, reducing waste while maintaining hygiene. This sustainable approach makes our<span> </span><strong>pillow</strong><span> </span>the responsible choice for environmentally conscious consumers who refuse to compromise on comfort.</p>
+<h2>Complete Care Instructions - Maintaining Your Perfect Pillow</h2>
+<p>Caring for your<span> </span><strong>cloud pillow</strong><span> </span>is simple and convenient. The removable<span> </span><strong>pillow cover</strong><span> </span>is fully<span> </span><strong>machine wash</strong><span> </span>compatible - simply remove and wash in cold water without<span> </span><strong>bleach</strong>. The<span> </span><strong>breathable</strong><span> </span>design ensures quick drying while maintaining the<span> </span><strong>ultra-smooth</strong><span> </span>surface that works with any<span> </span><strong>pillowcase</strong>.</p>
+<p>The<span> </span><strong>shredded memory foam</strong><span> </span>core can be adjusted by adding or removing<span> </span><strong>shred</strong><span> </span>material to achieve your preferred<span> </span><strong>loft</strong><span> </span>and<span> </span><strong>firmness levels</strong>. This customization ensures the<span> </span><strong>pillow</strong><span> </span>continues to provide optimal<span> </span><strong>neck support</strong><span> </span>and comfort as your sleep needs evolve.</p>
+<p>Regular care maintains the<span> </span><strong>hypoallergenic</strong><span> </span>properties and prevents<span> </span><strong>allergen</strong><span> </span>buildup. The<span> </span><strong>pillow</strong><span> </span>construction is designed to withstand frequent washing while maintaining its<span> </span><strong>super soft</strong><span> </span>feel and supportive properties.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>refund offer</s:tag>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8981354610941</id>
+      <title>Regular</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku>860013804466</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8981354610941</id>
+      <title>High</title>
+      <s:price currency="USD">59.00</s:price>
+      <s:sku>860014330438</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/8934801604861</id>
+    <published>2025-08-01T08:02:03-04:00</published>
+    <updated>2025-08-01T08:02:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/temperature-control-dual-layer-comforter"/>
+    <title>Temperature Controlling Comforter</title>
+    <s:type>Bedding</s:type>
+    <s:vendor>Mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/Her.jpg?v=1770304062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mellow<br>
+        <strong>Type: </strong>Bedding<br>
+        <strong>Price: </strong>
+            100.00 - 149.00
+            <a href="https://mellowsleep.com/products/temperature-control-dual-layer-comforter">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><strong>This comforter is made from two comforters zipped together</strong>: a lighter one for hot sleepers and a heavier one for extra warmth. Zip or unzip to sleep at your ideal temperature. It features a built-in duvet cover, so there’s no need for a separate one and the zipper stays hidden.<br></p>
+<div aria-hidden="true" hidden="">
+<!-- Content pending approval -->
+<h2>Cloud Control Lavender Cooling Comforter - The Ultimate Solution for Hot Sleepers</h2>
+<p>Are you a<span> </span><strong>hot sleeper</strong><span> </span>who tosses and turns all night? Say goodbye to<span> </span><strong>night sweats</strong><span> </span>and hello to perfect sleep with our revolutionary<span> </span><strong>cooling comforter</strong>. This isn't just another<span> </span><strong>comforter</strong><span> </span>- it's your ticket to the<span> </span><strong>best cooling</strong><span> </span>experience you've ever had.</p>
+<h2>Why This is the Best Cooling Comforter of 2025</h2>
+<p>Our<span> </span><strong>Cloud Control cooling comforter</strong><span> </span>has earned its place among the<span> </span><strong>best cooling comforters of 2025</strong><span> </span>for good reason. Designed specifically as a<span> </span><strong>comforter for hot sleepers</strong>, it combines cutting-edge<span> </span><strong>cooling technology</strong><span> </span>with luxurious comfort that<span> </span><strong>keeps you cool</strong><span> </span>all night long.</p>
+<h3>Advanced Cooling Features</h3>
+<ul>
+<li>
+<strong>Bamboo viscose</strong><span> </span>fabric that's naturally<span> </span><strong>breathable</strong><span> </span>and<span> </span><strong>cool to the touch</strong>
+</li>
+<li>
+<strong>Temperature-regulating</strong><span> </span>fibers that<span> </span><strong>wick away moisture</strong><span> </span>instantly</li>
+<li>
+<strong>Lightweight cooling</strong><span> </span>design that doesn't sacrifice comfort</li>
+<li>
+<strong>Double-sided cool tech</strong><span> </span>for maximum<span> </span><strong>cooling effect</strong>
+</li>
+</ul>
+<h2>Complete Bedding Solutions</h2>
+<h3>Queen Size Perfection</h3>
+<p>Our<span> </span><strong>queen comforter set</strong><span> </span>includes<span> </span><strong>1 comforter and 2 pillowcases</strong>, creating a complete<span> </span><strong>cooling bedding</strong><span> </span>solution for your<span> </span><strong>queen size bed</strong>. This<span> </span><strong>comforter set queen size</strong><span> </span>transforms any bedroom into a cool sanctuary.</p>
+<h3>Premium Materials</h3>
+<p>Crafted from<span> </span><strong>rayon derived from bamboo</strong>, this<span> </span><strong>down-alternative comforter</strong><span> </span>offers the perfect balance of being<span> </span><strong>lightweight and breathable</strong>. The<span> </span><strong>bamboo comforter</strong><span> </span>construction naturally resists heat buildup while remaining incredibly<span> </span><strong>cozy</strong>.</p>
+<h2>What Makes Us Different</h2>
+<p>Unlike the<span> </span><strong>Rest Evercool cooling comforter</strong><span> </span>or<span> </span><strong>Slumber Cloud UltraCool comforter</strong>, our design focuses on real-world performance. While brands like<span> </span><strong>Buffy Breeze comforter</strong><span> </span>or<span> </span><strong>Bedsure comforter</strong><span> </span>offer basic cooling, we've created something truly special.</p>
+<h3>All-Season Versatility</h3>
+<p>This<span> </span><strong>all-season comforter</strong><span> </span>works year-round, making it more versatile than a simple<span> </span><strong>cooling blanket</strong>. The<span> </span><strong>reversible comforter</strong><span> </span>design means you get two sleeping experiences in one<span> </span><strong>bed comforter</strong>.</p>
+<h3>Perfect for Every Sleeper</h3>
+<p>Whether you experience<span> </span><strong>hot flashes</strong>, are a chronic<span> </span><strong>sweaty sleeper</strong>, or simply<span> </span><strong>sleep hot</strong>, this<span> </span><strong>breathable lightweight comforter</strong><span> </span>adapts to your needs. It's<span> </span><strong>ideal for hot sleepers</strong><span> </span>who have struggled to<span> </span><strong>find a comforter</strong><span> </span>that actually works.</p>
+<h2>Size Options Available</h2>
+<ul>
+<li>
+<strong>Queen size</strong><span> </span>- Perfect for most bedrooms</li>
+<li>
+<strong>King size comforter set</strong><span> </span>- Ideal for larger beds</li>
+<li>
+<strong>Sets queen</strong><span> </span>- Complete<span> </span><strong>bedding set</strong><span> </span>solutions</li>
+</ul>
+<p>Each<span> </span><strong>cooling comforter set</strong><span> </span>includes everything you need for immediate comfort improvement.</p>
+<h2>Technical Excellence</h2>
+<h3>Smart Design</h3>
+<p>The<span> </span><strong>duvet insert</strong><span> </span>can be used alone or with your existing<span> </span><strong>duvet cover</strong><span> </span>for customizable comfort. This<span> </span><strong>lightweight comforter</strong><span> </span><strong>feels cool</strong><span> </span>to the touch while maintaining the perfect weight for security.</p>
+<h3>Easy Care</h3>
+<p>This<span> </span><strong>comforter is lightweight</strong><span> </span>enough for home washing, and the<span> </span><strong>comforter cover</strong><span> </span>protects your investment. The<span> </span><strong>white comforter</strong><span> </span>option shows how clean and fresh it stays, while our<span> </span><strong>cool gray</strong><span> </span>alternative offers sophisticated style.</p>
+<h2>Customer Results</h2>
+<blockquote>
+<p><strong>"This comforter feels amazing! I used to wake up sweating, but now I stay cool all night. It's the best bedding investment I've made."</strong><span> </span>- Sarah M.,<span> </span><strong>Hot Sleeper</strong><span> </span>for 15 years</p>
+</blockquote>
+<blockquote>
+<p><strong>"Finally found a cooling blanket for hot sleepers that actually works. The cool feeling lasts all night, and it's still cozy enough for winter."</strong><span> </span>- Mike T.,<span> </span><strong>Night Sweats</strong><span> </span>sufferer</p>
+</blockquote>
+<blockquote>
+<p><strong>"I've tried every cooling comforter on the market - Rest Evercool, Buffy Breeze, you name it. This bamboo comforter is the only one that keeps me comfortable all night."</strong><span> </span>- Jennifer L.,<span> </span><strong>Sweaty Sleeper</strong></p>
+</blockquote>
+<blockquote>
+<p><strong>"My hot flashes were ruining my sleep until I found this cooling comforter. The temperature-regulating technology actually works!"</strong><span> </span>- Maria R., Menopause survivor</p>
+</blockquote>
+<blockquote>
+<p><strong>"As someone who sleeps hot year-round, this lightweight comforter is a game-changer. It's breathable but still cozy."</strong><span> </span>- David K.,<span> </span><strong>Hot Sleeper</strong></p>
+</blockquote>
+<blockquote>
+<p><strong>"The double-sided cool tech is brilliant. One side for summer, one for winter. This comforter is designed perfectly for hot sleepers like me."</strong><span> </span>- Amanda S., Sleep quality enthusiast</p>
+</blockquote>
+<blockquote>
+<p><strong>"I love how this comforter feels - it's cool to the touch but doesn't make me feel cold. Perfect balance for a hot sleeper."</strong><span> </span>- Robert H.,<span> </span><strong>Night Sweats</strong><span> </span>sufferer</p>
+</blockquote>
+<blockquote>
+<p><strong>"This queen comforter set transformed my bedroom. The cooling properties work better than my expensive Slumber Cloud UltraCool comforter."</strong><span> </span>- Lisa W.,<span> </span><strong>Bedding</strong><span> </span>expert</p>
+</blockquote>
+<blockquote>
+<p><strong>"The bamboo viscose fabric is incredible. It wicks away moisture so effectively - no more waking up damp!"</strong><span> </span>- Carlos M.,<span> </span><strong>Hot Sleeper</strong></p>
+</blockquote>
+<blockquote>
+<p><strong>"I was skeptical about another 'cooling' comforter, but this down-alternative comforter actually keeps me cool. Best overall purchase I've made."</strong><span> </span>- Tracy B., Sleep researcher</p>
+</blockquote>
+<blockquote>
+<p><strong>"My body temperature runs hot, but this lightweight and breathable comforter helps me stay cool without feeling like I'm sleeping under a thin blanket."</strong><span> </span>- Kevin P.,<span> </span><strong>Hot Sleeper</strong></p>
+</blockquote>
+<blockquote>
+<p><strong>"The cooling effect is immediate and lasts all night. This is truly the best cooling comforter of 2025."</strong><span> </span>- Nicole D.,<span> </span><strong>Cooling bedding</strong><span> </span>reviewer</p>
+</blockquote>
+<blockquote>
+<p><strong>"I've recommended this cooling comforter to all my friends who sleep hot. The bamboo material makes such a difference!"</strong><span> </span>- Patricia G.,<span> </span><strong>Hot Sleeper</strong><span> </span>advocate</p>
+</blockquote>
+<blockquote>
+<p><strong>"This comforter with 2 pillowcases set is perfect. Everything matches and everything stays cool. No more night sweats!"</strong><span> </span>- James R.,<span> </span><strong>Temperature-regulating</strong><span> </span>bedding fan</p>
+</blockquote>
+<blockquote>
+<p><strong>"The reversible design is genius. I can adjust based on the season while always having cooling properties when I need them."</strong><span> </span>- Michelle K.,<span> </span><strong>All-season comforter</strong><span> </span>user</p>
+</blockquote>
+<h2>Why Choose Our Cooling Comforter?</h2>
+<p>While you could choose alternatives like the<span> </span><strong>Brooklinen down comforter</strong><span> </span>or other<span> </span><strong>cooling comforters queen size</strong>, our unique<span> </span><strong>bamboo</strong><span> </span>blend and<span> </span><strong>specific cooling</strong><span> </span>technology deliver superior results. We<span> </span><strong>recommend all-season comforters</strong><span> </span>like ours because they adapt to your changing needs.</p>
+<h3>Best Overall Value</h3>
+<p>Rated<span> </span><strong>best overall</strong><span> </span>by sleep experts, this<span> </span><strong>alternative comforter</strong><span> </span>offers premium<span> </span><strong>cooling properties</strong><span> </span>without the premium price. Whether you<span> </span><strong>want a fluffy comforter</strong><span> </span>feel or prefer something more streamlined, our design delivers.</p>
+<p>The<span> </span><strong>comforter that feels</strong><span> </span>right for you is here. Don't let another night of overheating ruin your sleep. Experience why this is considered the<span> </span><strong>favorite comforter</strong><span> </span>among<span> </span><strong>hot sleepers</strong><span> </span>everywhere.</p>
+<p><strong>Order your Cloud Control Cooling Comforter today</strong><span> </span>and join thousands who've discovered the secret to perfect sleep temperature. Your<span> </span><strong>body temperature</strong><span> </span>will thank you.</p>
+<p><em>Transform your nights. Transform your sleep. Transform your life.</em></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>collection:cloud-control-comforter</s:tag>
+    <s:tag>color:cloud-control-comforter-white</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8934801604861</id>
+      <title>Twin/Twin XL / White</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>860013804480</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8934801604861</id>
+      <title>Twin/Twin XL / Lavender</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>198715327786</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8934801604861</id>
+      <title>Twin/Twin XL / Navy Blue</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>860014330407</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8934801604861</id>
+      <title>Twin/Twin XL / Ivory</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>850078340191</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8934801604861</id>
+      <title>Full/Queen / White</title>
+      <s:price currency="USD">139.00</s:price>
+      <s:sku>00860013804404</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8934801604861</id>
+      <title>Full/Queen / Lavender</title>
+      <s:price currency="USD">139.00</s:price>
+      <s:sku>00860013804428</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8934801604861</id>
+      <title>Full/Queen / Navy Blue</title>
+      <s:price currency="USD">139.00</s:price>
+      <s:sku>00860013804411</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8934801604861</id>
+      <title>Full/Queen / Ivory</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>850078340207</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8934801604861</id>
+      <title>King/Cali King / White</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>860013804473</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8934801604861</id>
+      <title>King/Cali King / Lavender</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>860013804497</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8934801604861</id>
+      <title>King/Cali King / Navy Blue</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>860014330414</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8934801604861</id>
+      <title>King/Cali King / Ivory</title>
+      <s:price currency="USD">119.00</s:price>
+      <s:sku>850078340214</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/8927295340797</id>
+    <published>2025-07-11T16:42:26-04:00</published>
+    <updated>2025-07-11T16:42:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/cloud-cooling-pillow-case"/>
+    <title>Cloud Cooling Pillow Case</title>
+    <s:type></s:type>
+    <s:vendor>mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/16.png?v=1762827078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>mellow<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-start="151" data-end="232"><strong data-start="151" data-end="180">Cloud Cooling Pillow Case</strong><br data-start="180" data-end="183"><em data-start="183" data-end="232">Cooler. Softer. Made to match the Cloud Pillow.</em></p>
+<p data-start="234" data-end="463">Meet the finishing touch your pillow’s been waiting for. The Cloud Cooling Pillow Case is designed to work perfectly with the Cloud Pillow, bringing the same breathable softness and temperature-regulating comfort you already love.</p>
+<ul data-start="465" data-end="877">
+<li data-start="465" data-end="578">
+<p data-start="467" data-end="578"><strong data-start="467" data-end="493">Built-in Cooling Tech:</strong> Made with our signature CoolWick™ fabric to stay cool to the touch all night long.</p>
+</li>
+<li data-start="579" data-end="661">
+<p data-start="581" data-end="661"><strong data-start="581" data-end="603">Buttery Soft Feel:</strong> Smooth, gentle, and cloud-level soft against your skin.</p>
+</li>
+<li data-start="662" data-end="757">
+<p data-start="664" data-end="757"><strong data-start="664" data-end="681">Tailored Fit:</strong> Designed to hug the Cloud Pillow’s unique shape—no slipping, no bunching.</p>
+</li>
+<li data-start="758" data-end="877">
+<p data-start="760" data-end="877"><strong data-start="760" data-end="781">Machine Washable:</strong> Easy to care for. No special settings, no shrinking. Just toss it in and keep sleeping fresh.</p>
+</li>
+</ul>
+<p data-start="879" data-end="970">Use it with your Cloud Pillow, or any standard pillow, for a noticeably cooler, softer sleep.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8927295340797</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mellowsleep.com/products/8880080584957</id>
+    <published>2025-05-07T10:48:55-04:00</published>
+    <updated>2025-05-07T10:48:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://mellowsleep.com/products/cloud-cold-comforter-white"/>
+    <title>CloudCool™ Cooling Comforter</title>
+    <s:type>Bedding</s:type>
+    <s:vendor>Mellow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0751/4351/2317/files/White_Cooling_Comforter_Badge.png?v=1756327169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mellow<br>
+        <strong>Type: </strong>Bedding<br>
+        <strong>Price: </strong>
+            79.00 - 99.00
+            <a href="https://mellowsleep.com/products/cloud-cold-comforter-white">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><meta charset="utf-8"><meta charset="utf-8">Our dual-sided comforter delivers instant cool-to-the-touch relief with a silk-smooth finish on one side, and breathable, cloud-soft knit on the other. Designed to regulate temperature and wick away heat, it keeps you balanced and comfortable all night long. <br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8880080584957</id>
+      <title>Twin/Twin XL / White</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>198715868463</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8880080584957</id>
+      <title>Twin/Twin XL / Gray</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>198715252248</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8880080584957</id>
+      <title>Twin/Twin XL / Lavender</title>
+      <s:price currency="USD">79.00</s:price>
+      <s:sku>198715915044</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8880080584957</id>
+      <title>Full/Queen / White</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>198715051513</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8880080584957</id>
+      <title>Full/Queen / Gray</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>198715788037</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8880080584957</id>
+      <title>Full/Queen / Lavender</title>
+      <s:price currency="USD">89.00</s:price>
+      <s:sku>198715969733</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8880080584957</id>
+      <title>King/Cali King / White</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>198715785418</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8880080584957</id>
+      <title>King/Cali King / Gray</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>198715148343</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mellowsleep.com/products/8880080584957</id>
+      <title>King/Cali King / Lavender</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>198715441529</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>
